@@ -16,7 +16,7 @@ const Card = ({ author, date, img, title, tags, views, children }) => {
           </li>
         ))}
       </ul>
-      <p className="card__views">{views}</p>
+      <p className="card__views">Vistas {views}</p>
       <p className="card__date">{date}</p>
     </div>
   );

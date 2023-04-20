@@ -16,7 +16,7 @@ function App() {
       tags: ["animal", "gato", "michi"],
       views: 23,
       description:
-        "hola com estas este es un cuerpo de relleno de prueba para la card",
+        "hola com estas este es un cuerpo de relleno de prueba para la card 1",
     },
     {
       id: id(),
@@ -27,7 +27,7 @@ function App() {
       tags: ["animal", "gato", "michi"],
       views: 253,
       description:
-        "hola com estas este es un cuerpo de relleno de prueba para la card",
+        "hola com estas este es un cuerpo de relleno de prueba para la card 2",
     },
     {
       id: id(),
@@ -38,7 +38,7 @@ function App() {
       tags: ["animal", "gato", "michi"],
       views: 123,
       description:
-        "hola com estas este es un cuerpo de relleno de prueba para la card",
+        "hola com estas este es un cuerpo de relleno de prueba para la card 3",
     },
     {
       id: id(),
@@ -49,7 +49,7 @@ function App() {
       tags: ["animal", "gato", "michi"],
       views: 523,
       description:
-        "hola com estas este es un cuerpo de relleno de prueba para la card",
+        "hola com estas este es un cuerpo de relleno de prueba para la card 4",
     },
   ];
 
