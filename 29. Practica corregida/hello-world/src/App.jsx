@@ -10,7 +10,7 @@ function App() {
     {
       id: id(),
       title: "Card 1",
-      img: "/img/gato.jpg",
+      img: "/img/gato.webp",
       author: "Perch33",
       date: new Date().toLocaleDateString(),
       tags: ["animal", "gato", "michi"],
@@ -21,7 +21,7 @@ function App() {
     {
       id: id(),
       title: "Card 2",
-      img: "./img/gato.jpg",
+      img: "/img/gato.webp",
       author: "Perch33",
       date: new Date().toLocaleDateString(),
       tags: ["animal", "gato", "michi"],
@@ -32,7 +32,7 @@ function App() {
     {
       id: id(),
       title: "Card 3",
-      img: "../img/gato.jpg",
+      img: "/img/gato.webp",
       author: "Perch33",
       date: new Date().toLocaleDateString(),
       tags: ["animal", "gato", "michi"],
@@ -43,7 +43,7 @@ function App() {
     {
       id: id(),
       title: "Card 4",
-      img: "/img/gato.jpg",
+      img: "/img/gato.webp",
       author: "Perch33",
       date: new Date().toLocaleDateString(),
       tags: ["animal", "gato", "michi"],
